@@ -1,0 +1,20 @@
+===== PAYSLIP =====
+Employee Name: Asif
+Employee ID: 1
+Hourly Rate: Rs. 500
+Total Hours Worked: 8
+Gross Salary: Rs. 4000
+Tax Deduction (5%): Rs. 200
+Net Salary: Rs. 3800
+===================
+
+===== PAYSLIP =====
+Employee Name: Hussnain
+Employee ID: 2
+Hourly Rate: Rs. 400
+Total Hours Worked: 8
+Gross Salary: Rs. 3200
+Tax Deduction (5%): Rs. 160
+Net Salary: Rs. 3040
+===================
+
